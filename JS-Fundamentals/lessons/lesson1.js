@@ -18,6 +18,15 @@ console.log(age)
 
 // Constants
 // Defined with keyword const
+// Value saved inside of const cannot be changed later on
 
 const occupation = "Engineer"
 console.log(occupation)
+
+// Data Types
+
+var middleName = "Blake" // string
+var ageOFBrother = 32 // number
+var isHeMarried = true // boolean (true/false)
+var yearsInMarriage = 3 // null (was null)
+var numberOfCars = undefined // undefined
