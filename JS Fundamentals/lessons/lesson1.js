@@ -18,3 +18,6 @@ console.log(age)
 
 // Constants
 // Defined with keyword const
+
+const occupation = "Engineer"
+console.log(occupation)
